@@ -1,0 +1,24 @@
+{
+  "name": "mus-ed",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyaffatigato/MusEd.git"
+  },
+  "author": "jimmyaffatigato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmyaffatigato/MusEd/issues"
+  },
+  "homepage": "https://github.com/jimmyaffatigato/MusEd#readme",
+  "devDependencies": {
+    "@types/vexflow": "^3.0.0",
+    "ts-loader": "^8.0.1",
+    "typescript": "^3.9.7",
+    "vexflow": "^3.0.9",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
